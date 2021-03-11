@@ -1,6 +1,6 @@
 # Budget Tracker
 
-![gif of website](./BudgetTracker.gif"gif of website")
+![gif of website](BudgetTracker.gif "gif of website")
 
 https://safe-taiga-13179.herokuapp.com/
 
